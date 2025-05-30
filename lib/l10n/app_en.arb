@@ -1,0 +1,11 @@
+{
+  "@@locale": "en",
+  "email": "Email",
+  "password": "Password",
+  "name": "Name",
+  "type": "type",
+  "address": "address",
+  "nots": "nots",
+  "state": "state"
+}
+
